@@ -2,26 +2,25 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Carlo Palatucci palatucci2257570
+URL del repository condiviso:https://github.com/palatucci2257570/esercitazione-0-template.git
 
-URL del repository condiviso:
-
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -Wall -Wextra -Wpedantic hello.c -o hello (e se ci fosse stata la libreria math dovevo aggiungere -lm)
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato:./hello.c
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: il sorgente è hello.c scritto in C mentre l'eseguibile è il codice in linguaggio macchina (binario) che si ottiene dopo la compilazione ed è quello che posso eseguire. Se cambio il sorgente senza ricompilare ovviamente quando si eseguo l'eseguibile questo non presenta le modifiche apportate.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica:non stampava nulla 
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione:stampa Hello, computational physics!
 
 ## Step 1 — Git
 
