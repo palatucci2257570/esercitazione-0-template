@@ -28,7 +28,7 @@ Quali file ho incluso nel commit e perché: ho aggiunto hello.c e osservazioni.m
 
 Come ho verificato che la versione provata sia presente su GitHub:
 controllando l'hash e verificando che coincidessero
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: Non serve rifare git clone perché la copia locale esiste già ed è collegata al repository GitHub tramite origin. git clone crea la copia una volta sola; git pull scarica soltanto i commit nuovi presenti su GitHub e aggiorna i file locali, senza ricreare la cartella.
 
 ## Step 2 — Eco: prima prova
 
