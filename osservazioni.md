@@ -5,7 +5,7 @@ Gruppo:
 Componenti (nome, cognome e username GitHub di entrambi): Carlo Palatucci palatucci2257570
 URL del repository condiviso:https://github.com/palatucci2257570/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2: entrambi
+Chi ha usato la tastiera nello step 1 e nello step 2: Entrambi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
